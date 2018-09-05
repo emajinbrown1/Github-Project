@@ -12,7 +12,14 @@
 s = "Python syntax highlighting"
 print s
 ```
+> This is a block quote
+> This line is part of the same quote.
 
+break.
 
+> This is the end of the block quote 
 
++ 1
++ 2
++ 3
 
